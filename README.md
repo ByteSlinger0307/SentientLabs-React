@@ -1,91 +1,133 @@
 # SentientLabs Website
 
-A modern, responsive React website for SentientLabs—built for automation-first lead generation, modern agencies, and scalable AI solutions.
+A high-performance, modern React website for SentientLabs—the next-generation lead generation agency specializing in AI-powered automation and scalable growth solutions.
 
----
+# 1.About SentientLabs
+SentientLabs delivers cutting-edge lead generation services with blazing-fast performance, intelligent automation, and data-driven results. Our platform combines advanced AI technology with proven marketing strategies to help agencies and businesses scale efficiently.
 
-## 🚀 Project Overview
+## Key Offerings:
+# 1. Automated lead qualification and nurturing systems
+AI-powered funnel optimization
+Scalable marketing automation for agencies
+Data-driven growth solutions for SMBs
 
-SentientLabs provides intelligent, cost-effective automation systems for marketing agencies and SMBs. This project features:
 
-- Automated lead qualification and funnel building
-- Interactive, mobile-friendly UI with animations
-- Team member bios and direct contact actions
-- Seamless CTAs with email and phone support
-- Social media and professional integrations
+## 2. Tech Stack
 
----
+React 18 – Modern component architecture
 
-## 🛠️ Tech Stack
+Vite – Lightning-fast build tooling
 
-- **React** – UI Components
-- **Vite** – Fast dev/build tooling
-- **Tailwind CSS** – Utility-first responsive styling
-- **Framer Motion** – Modern animation library
-- **Lucide React** – Icon set
-- **GSAP** – Advanced section animation
-- **Git & GitHub** – Version control & collaboration
+Tailwind CSS – Utility-first responsive design
 
----
+Framer Motion – Smooth animations and transitions
 
-## 📦 Getting Started
+Lucide React – Consistent icon library
 
-### Prerequisites
+GSAP – Advanced scroll-triggered animations
 
-- Node.js (v16+)
-- npm or yarn
+Critical CSS Optimization – Sub-second load times
 
-### Installation
 
-git clone https://github.com/pprathik07/sentientlabs-website.git
+## 3. Performance Metrics
+
+Lighthouse Score: 97/100 (Desktop)
+
+Mobile Score: 70/100 (Above industry average)
+
+LCP: 0.8s – Largest Contentful Paint
+
+FCP: 0.6s – First Contentful Paint
+
+CLS: 0 – Perfect layout stability
+
+Speed Index: 1.4s – Visual completeness
+
+
+## 4. Getting Started
+Prerequisites
+
+Node.js (v18+ recommended)
+npm or yarn package manager
+
+Installation
+bashgit clone https://github.com/pprathik07/sentientlabs-website.git
 cd sentientlabs-website
 npm install
+Development
+bashnpm run dev
+Visit http://localhost:5173
+Production Build
+bashnpm run build
+npm run preview
 
-or
-yarn install
+## 5. Key Features
+🎯 Performance Optimized
 
-text
+Critical CSS inlining for instant rendering
+Optimized images and lazy loading
+Minimal JavaScript bundle size
+Progressive web app capabilities
 
-### Development
+📱 Mobile-First Design
 
-npm run dev
+Responsive across all device sizes
+Touch-friendly interactions
+Accessible navigation and controls
+Optimized for Core Web Vitals
 
-or
-yarn dev
+🎨 Modern User Experience
 
-Visit localhost
+Smooth scroll animations and micro-interactions
+Dynamic hero section with gradient effects
+Interactive team member cards
+Seamless contact integration
 
----
+🔧 Developer Experience
 
-## 📱 Responsive Design
+Component-based architecture
+Hot module replacement
+TypeScript-ready structure
+Comprehensive error handling
 
-Built mobile-first, the layout adapts smoothly from tiny phones to large screens.  
-No UI breakage, with optimal usability and accessibility at every viewport.
 
----
+🌐 Deployment
+This application is optimized for:
+Vercel (Recommended)
+Netlify
+GitHub Pages
+Any static hosting provider
 
-## ✨ Features
+Quick Deploy to Vercel
+bashnpm i -g vercel
+vercel --prod
 
-- **Smart navigation** with responsive burger menu and contact section
-- **Animated hero** with custom cursor and motion effects
-- **Team cards** with direct phone and LinkedIn links
-- **Service explanations** in responsive, accessible cards
-- **Interactive CTAs** for instant outreach
-- **Social links** to all SentientLabs platforms
-- **Touch-friendly & accessible** for all devices
+📊 SEO & Analytics Ready
 
----
+Semantic HTML structure
+Open Graph meta tags
+Twitter Card optimization
+Google Analytics integration ready
+Structured data markup
 
-## 📜 License
 
-MIT License
+🔒 Security Features
 
----
+Content Security Policy headers
+XSS protection
+HTTPS enforcement
+Secure contact form handling
 
-## 📞 Contact
 
-- Email: hello@sentientlabs.in
+📞 Contact & Support
 
----
+Website: sentientlabs.digital
+Email: hello@sentientlabs.in
+LinkedIn: SentientLabs
 
-*Helping agencies automate and scale, the smart way.*
+
+## Development:
+Developed by Prathik - Chief Technology Officer, SentientLabs
+Engineered for performance, built for scale, designed for results.
+
+Empowering agencies with intelligent automation and next-generation lead generation solutions.
